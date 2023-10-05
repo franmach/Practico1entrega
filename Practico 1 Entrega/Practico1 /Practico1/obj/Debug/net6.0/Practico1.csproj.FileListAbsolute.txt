@@ -1,0 +1,58 @@
+C:/Users/USUARIO/OneDrive/Escritorio/Semestre 2/Programacion 2/Practico/Practico 0/Practico1/Practico1/bin/Debug/net6.0/Practico1.exe
+C:/Users/USUARIO/OneDrive/Escritorio/Semestre 2/Programacion 2/Practico/Practico 0/Practico1/Practico1/bin/Debug/net6.0/Practico1.deps.json
+C:/Users/USUARIO/OneDrive/Escritorio/Semestre 2/Programacion 2/Practico/Practico 0/Practico1/Practico1/bin/Debug/net6.0/Practico1.runtimeconfig.json
+C:/Users/USUARIO/OneDrive/Escritorio/Semestre 2/Programacion 2/Practico/Practico 0/Practico1/Practico1/bin/Debug/net6.0/Practico1.dll
+C:/Users/USUARIO/OneDrive/Escritorio/Semestre 2/Programacion 2/Practico/Practico 0/Practico1/Practico1/bin/Debug/net6.0/Practico1.pdb
+C:/Users/USUARIO/OneDrive/Escritorio/Semestre 2/Programacion 2/Practico/Practico 0/Practico1/Practico1/obj/Debug/net6.0/Practico1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/USUARIO/OneDrive/Escritorio/Semestre 2/Programacion 2/Practico/Practico 0/Practico1/Practico1/obj/Debug/net6.0/Practico1.AssemblyInfoInputs.cache
+C:/Users/USUARIO/OneDrive/Escritorio/Semestre 2/Programacion 2/Practico/Practico 0/Practico1/Practico1/obj/Debug/net6.0/Practico1.AssemblyInfo.cs
+C:/Users/USUARIO/OneDrive/Escritorio/Semestre 2/Programacion 2/Practico/Practico 0/Practico1/Practico1/obj/Debug/net6.0/Practico1.csproj.CoreCompileInputs.cache
+C:/Users/USUARIO/OneDrive/Escritorio/Semestre 2/Programacion 2/Practico/Practico 0/Practico1/Practico1/obj/Debug/net6.0/Practico1.dll
+C:/Users/USUARIO/OneDrive/Escritorio/Semestre 2/Programacion 2/Practico/Practico 0/Practico1/Practico1/obj/Debug/net6.0/refint/Practico1.dll
+C:/Users/USUARIO/OneDrive/Escritorio/Semestre 2/Programacion 2/Practico/Practico 0/Practico1/Practico1/obj/Debug/net6.0/Practico1.pdb
+C:/Users/USUARIO/OneDrive/Escritorio/Semestre 2/Programacion 2/Practico/Practico 0/Practico1/Practico1/obj/Debug/net6.0/Practico1.genruntimeconfig.cache
+C:/Users/USUARIO/OneDrive/Escritorio/Semestre 2/Programacion 2/Practico/Practico 0/Practico1/Practico1/obj/Debug/net6.0/ref/Practico1.dll
+/Users/franciscomachado/Desktop/Semestre 2/Programacion 2/Projects/Practico1/Practico1/bin/Debug/net6.0/Practico1
+/Users/franciscomachado/Desktop/Semestre 2/Programacion 2/Projects/Practico1/Practico1/bin/Debug/net6.0/Practico1.deps.json
+/Users/franciscomachado/Desktop/Semestre 2/Programacion 2/Projects/Practico1/Practico1/bin/Debug/net6.0/Practico1.runtimeconfig.json
+/Users/franciscomachado/Desktop/Semestre 2/Programacion 2/Projects/Practico1/Practico1/bin/Debug/net6.0/Practico1.dll
+/Users/franciscomachado/Desktop/Semestre 2/Programacion 2/Projects/Practico1/Practico1/bin/Debug/net6.0/Practico1.pdb
+/Users/franciscomachado/Desktop/Semestre 2/Programacion 2/Projects/Practico1/Practico1/obj/Debug/net6.0/Practico1.csproj.AssemblyReference.cache
+/Users/franciscomachado/Desktop/Semestre 2/Programacion 2/Projects/Practico1/Practico1/obj/Debug/net6.0/Practico1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscomachado/Desktop/Semestre 2/Programacion 2/Projects/Practico1/Practico1/obj/Debug/net6.0/Practico1.AssemblyInfoInputs.cache
+/Users/franciscomachado/Desktop/Semestre 2/Programacion 2/Projects/Practico1/Practico1/obj/Debug/net6.0/Practico1.AssemblyInfo.cs
+/Users/franciscomachado/Desktop/Semestre 2/Programacion 2/Projects/Practico1/Practico1/obj/Debug/net6.0/Practico1.csproj.CoreCompileInputs.cache
+/Users/franciscomachado/Desktop/Semestre 2/Programacion 2/Projects/Practico1/Practico1/obj/Debug/net6.0/Practico1.dll
+/Users/franciscomachado/Desktop/Semestre 2/Programacion 2/Projects/Practico1/Practico1/obj/Debug/net6.0/refint/Practico1.dll
+/Users/franciscomachado/Desktop/Semestre 2/Programacion 2/Projects/Practico1/Practico1/obj/Debug/net6.0/Practico1.pdb
+/Users/franciscomachado/Desktop/Semestre 2/Programacion 2/Projects/Practico1/Practico1/obj/Debug/net6.0/Practico1.genruntimeconfig.cache
+/Users/franciscomachado/Desktop/Semestre 2/Programacion 2/Projects/Practico1/Practico1/obj/Debug/net6.0/ref/Practico1.dll
+C:/Users/USUARIO/OneDrive/Escritorio/Practico1/Practico1/bin/Debug/net6.0/Practico1.exe
+C:/Users/USUARIO/OneDrive/Escritorio/Practico1/Practico1/bin/Debug/net6.0/Practico1.deps.json
+C:/Users/USUARIO/OneDrive/Escritorio/Practico1/Practico1/bin/Debug/net6.0/Practico1.runtimeconfig.json
+C:/Users/USUARIO/OneDrive/Escritorio/Practico1/Practico1/bin/Debug/net6.0/Practico1.dll
+C:/Users/USUARIO/OneDrive/Escritorio/Practico1/Practico1/bin/Debug/net6.0/Practico1.pdb
+C:/Users/USUARIO/OneDrive/Escritorio/Practico1/Practico1/obj/Debug/net6.0/Practico1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/USUARIO/OneDrive/Escritorio/Practico1/Practico1/obj/Debug/net6.0/Practico1.AssemblyInfoInputs.cache
+C:/Users/USUARIO/OneDrive/Escritorio/Practico1/Practico1/obj/Debug/net6.0/Practico1.AssemblyInfo.cs
+C:/Users/USUARIO/OneDrive/Escritorio/Practico1/Practico1/obj/Debug/net6.0/Practico1.csproj.CoreCompileInputs.cache
+C:/Users/USUARIO/OneDrive/Escritorio/Practico1/Practico1/obj/Debug/net6.0/Practico1.dll
+C:/Users/USUARIO/OneDrive/Escritorio/Practico1/Practico1/obj/Debug/net6.0/refint/Practico1.dll
+C:/Users/USUARIO/OneDrive/Escritorio/Practico1/Practico1/obj/Debug/net6.0/Practico1.pdb
+C:/Users/USUARIO/OneDrive/Escritorio/Practico1/Practico1/obj/Debug/net6.0/Practico1.genruntimeconfig.cache
+C:/Users/USUARIO/OneDrive/Escritorio/Practico1/Practico1/obj/Debug/net6.0/ref/Practico1.dll
+/Users/franciscomachado/Downloads/Practico1/Practico1/bin/Debug/net6.0/Practico1
+/Users/franciscomachado/Downloads/Practico1/Practico1/bin/Debug/net6.0/Practico1.deps.json
+/Users/franciscomachado/Downloads/Practico1/Practico1/bin/Debug/net6.0/Practico1.runtimeconfig.json
+/Users/franciscomachado/Downloads/Practico1/Practico1/bin/Debug/net6.0/Practico1.dll
+/Users/franciscomachado/Downloads/Practico1/Practico1/bin/Debug/net6.0/Practico1.pdb
+/Users/franciscomachado/Downloads/Practico1/Practico1/obj/Debug/net6.0/Practico1.csproj.AssemblyReference.cache
+/Users/franciscomachado/Downloads/Practico1/Practico1/obj/Debug/net6.0/Practico1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscomachado/Downloads/Practico1/Practico1/obj/Debug/net6.0/Practico1.AssemblyInfoInputs.cache
+/Users/franciscomachado/Downloads/Practico1/Practico1/obj/Debug/net6.0/Practico1.AssemblyInfo.cs
+/Users/franciscomachado/Downloads/Practico1/Practico1/obj/Debug/net6.0/Practico1.csproj.CoreCompileInputs.cache
+/Users/franciscomachado/Downloads/Practico1/Practico1/obj/Debug/net6.0/Practico1.dll
+/Users/franciscomachado/Downloads/Practico1/Practico1/obj/Debug/net6.0/refint/Practico1.dll
+/Users/franciscomachado/Downloads/Practico1/Practico1/obj/Debug/net6.0/Practico1.pdb
+/Users/franciscomachado/Downloads/Practico1/Practico1/obj/Debug/net6.0/Practico1.genruntimeconfig.cache
+/Users/franciscomachado/Downloads/Practico1/Practico1/obj/Debug/net6.0/ref/Practico1.dll
